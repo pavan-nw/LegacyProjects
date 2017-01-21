@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" >
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp" >
+
+        <CheckBox
+            android:id="@+id/chkbxservice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/strservice" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp" >
+
+        <CheckBox
+            android:id="@+id/chkbxnotify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/strnotification" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnchngpwd"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="clip_horizontal"
+            android:text="@string/strchngpwd" />
+
+        <Button
+            android:id="@+id/btnsave"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="@string/strsave" />
+
+    </LinearLayout>
+
+</LinearLayout>

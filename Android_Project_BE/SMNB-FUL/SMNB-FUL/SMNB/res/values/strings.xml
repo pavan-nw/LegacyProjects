@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SMNBActivity!</string>
+    <string name="app_name">Smart Mobile Notice Board</string>
+    <string name="strsecurity">Security Wall</string>
+    <string name="strusn">Username : </string>
+    <string name="strpwd">Password : </string>
+    <string name="strlogin">"Login "</string>
+    <string name="strwelcome">Welcome To Smart Mobile Notice Board</string>
+    <string name="strexit">Exit</string>
+    <string name="hintusn">Enter Username</string>
+    <string name="hintpwd">Enter Password</string>
+    <string name="strdesc">This application processes incoming msgs and replys automatically based on result of processing</string>
+    <string name="strinbox">Inbox-Recieved Msgs</string>
+    <string name="strnotify">Send New Notification</string>
+    <string name="stroptions">Options</string>
+    <string name="strnotifymsg">Notification Msg</string>
+    <string name="hintnotifymsg">Enter Msg to be sent</string>
+    <string name="strsendnot">Send</string>
+    <string name="strdeleteinbox">Emply Inbox</string>
+    <string name="strchngpwd">Change Password</string>
+    <string name="strphno">To :</string>
+    <string name="hintphno">Enter Phno</string>
+    <string name="strminimize">Minimize Application</string>
+    <string name="strsave">Save Settings</string>
+    <string name="strservice">Enable Service</string>
+    <string name="strnotification">Enable Sending New Notification</string>
+    <string name="strold">Current Password</string>
+    <string name="strnew">New Password</string>
+    <string name="strretype">Retype New Password</string>
+    
+
+</resources>
