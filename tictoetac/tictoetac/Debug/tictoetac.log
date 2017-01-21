@@ -1,0 +1,15 @@
+﻿Build started 29-01-2013 10:14:14 PM.
+     1>Project "E:\Study\MIT\2nd Sem\AI\tictoetac\tictoetac\tictoetac.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\tictoetac.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt tictoetac.cpp
+         tictoetac.cpp
+     1>e:\study\mit\2nd sem\ai\tictoetac\tictoetac\tictoetac.cpp(126): warning C4715: 'make' : not all control paths return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Study\MIT\2nd Sem\AI\tictoetac\Debug\tictoetac.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Study\MIT\2nd Sem\AI\tictoetac\Debug\tictoetac.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Study\MIT\2nd Sem\AI\tictoetac\Debug\tictoetac.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\tictoetac.obj
+         tictoetac.vcxproj -> E:\Study\MIT\2nd Sem\AI\tictoetac\Debug\tictoetac.exe
+     1>Done Building Project "E:\Study\MIT\2nd Sem\AI\tictoetac\tictoetac\tictoetac.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09

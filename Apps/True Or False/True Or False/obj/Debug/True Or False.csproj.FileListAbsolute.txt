@@ -1,0 +1,26 @@
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\Bin\Debug\True Or False.dll
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\Bin\Debug\True Or False.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\Bin\Debug\True_Or_False.xap
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\True Or False.g.resources
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\True Or False.dll
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\True Or False.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\True Or False\True Or False\obj\Debug\XapCacheFile.xml
+D:\Apps\True Or False\True Or False\Bin\Debug\ApplicationIcon.png
+D:\Apps\True Or False\True Or False\Bin\Debug\Background.png
+D:\Apps\True Or False\True Or False\Bin\Debug\True Or False.dll
+D:\Apps\True Or False\True Or False\Bin\Debug\True Or False.pdb
+D:\Apps\True Or False\True Or False\Bin\Debug\AppManifest.xaml
+D:\Apps\True Or False\True Or False\Bin\Debug\True_Or_False.xap
+D:\Apps\True Or False\True Or False\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\True Or False\True Or False\obj\Debug\App.g.i.cs
+D:\Apps\True Or False\True Or False\obj\Debug\MainPage.g.i.cs
+D:\Apps\True Or False\True Or False\obj\Debug\True Or False.g.resources
+D:\Apps\True Or False\True Or False\obj\Debug\True Or False.dll
+D:\Apps\True Or False\True Or False\obj\Debug\True Or False.pdb
+D:\Apps\True Or False\True Or False\obj\Debug\XapCacheFile.xml

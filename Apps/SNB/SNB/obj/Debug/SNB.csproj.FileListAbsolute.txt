@@ -1,0 +1,28 @@
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\Bin\Debug\ApplicationIcon.png
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\Bin\Debug\Background.png
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\Bin\Debug\SNB.dll
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\Bin\Debug\SNB.pdb
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\Bin\Debug\AppManifest.xaml
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\Bin\Debug\SNB.xap
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\App.g.i.cs
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\MainPage.g.i.cs
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\Page1.g.i.cs
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\SNB.g.resources
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\SNB.dll
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\SNB.pdb
+c:\users\rashu\documents\visual studio 2010\Projects\SNB\SNB\obj\Debug\XapCacheFile.xml
+D:\Apps\SNB\SNB\Bin\Debug\ApplicationIcon.png
+D:\Apps\SNB\SNB\Bin\Debug\Background.png
+D:\Apps\SNB\SNB\Bin\Debug\SNB.dll
+D:\Apps\SNB\SNB\Bin\Debug\SNB.pdb
+D:\Apps\SNB\SNB\Bin\Debug\AppManifest.xaml
+D:\Apps\SNB\SNB\Bin\Debug\SNB.xap
+D:\Apps\SNB\SNB\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\SNB\SNB\obj\Debug\App.g.i.cs
+D:\Apps\SNB\SNB\obj\Debug\MainPage.g.i.cs
+D:\Apps\SNB\SNB\obj\Debug\Page1.g.i.cs
+D:\Apps\SNB\SNB\obj\Debug\SNB.g.resources
+D:\Apps\SNB\SNB\obj\Debug\SNB.dll
+D:\Apps\SNB\SNB\obj\Debug\SNB.pdb
+D:\Apps\SNB\SNB\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="SNB.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Connect with different people..." Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF03FFFF" FontStyle="Italic" />
+            <TextBlock x:Name="PageTitle" Text="BrOwSeR 2 sHaRe" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="56" Foreground="#FF1AA0FF" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0" Background="#00F5F5F5">
+            <RadioButton Content="RadioButton" Height="76" HorizontalAlignment="Left" Margin="47,108,0,0" Name="rbfb" VerticalAlignment="Top" Width="59" Checked="radioButton1_Checked" IsChecked="False" Click="rbfb_Click" />
+            <RadioButton Content="RadioButton" Height="76" HorizontalAlignment="Left" Margin="47,0,0,362" Name="rbork" VerticalAlignment="Bottom" Width="59" Checked="rbork_Checked" />
+            <RadioButton Content="RadioButton" Height="74" HorizontalAlignment="Left" Margin="47,272,0,0" Name="rbtwi" VerticalAlignment="Top" Width="59" />
+            <RadioButton Content="RadioButton" Height="80" HorizontalAlignment="Left" Margin="47,352,0,0" Name="rblin" VerticalAlignment="Top" Width="59" />
+            <Button Content="PROCEED" Height="72" HorizontalAlignment="Left" Margin="112,485,0,0" Name="btnproc" VerticalAlignment="Top" Width="206" Foreground="#FF15C7E5" FontSize="28" FontFamily="Comic Sans MS" BorderBrush="#C1E8E833" GotFocus="btnproc_GotFocus" Click="btnproc_Click" />
+            <TextBlock Height="50" HorizontalAlignment="Right" Margin="0,117,105,0" Name="txtbkfb" Text="Facebook" VerticalAlignment="Top" Width="239" Foreground="#FF6E77FF" FontSize="40" FontFamily="Segoe WP Black" />
+            <TextBlock Height="50" HorizontalAlignment="Left" Margin="112,201,0,0" Name="txtbkork" Text="Orkut" VerticalAlignment="Top" Foreground="#FF7108A7" FontFamily="Segoe WP Semibold" FontSize="40" Width="129" />
+            <TextBlock FontFamily="Segoe WP Semibold" FontSize="40" Foreground="#FF085EA7" Height="50" HorizontalAlignment="Left" Margin="112,285,0,0" Name="txtbktwi" Text="Twitter" VerticalAlignment="Top" Width="129" />
+            <TextBlock FontFamily="Segoe WP Semibold" FontSize="40" Foreground="#FF23303B" Height="50" HorizontalAlignment="Left" Margin="112,368,0,0" Name="txtbklin" Text="LinkedIn" VerticalAlignment="Top" Width="163" />
+        </Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FF07B715" Offset="0" />
+                <GradientStop Color="#FF010A08" Offset="1" />
+            </RadialGradientBrush>
+        </Grid.Background>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,19 @@
+D:\Apps\AnalogClk\AnalogClk\Bin\Debug\ApplicationIcon.png
+D:\Apps\AnalogClk\AnalogClk\Bin\Debug\Background.png
+D:\Apps\AnalogClk\AnalogClk\Bin\Debug\AppManifest.xaml
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\App.g.i.cs
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\MainPage.g.i.cs
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\XapCacheFile.xml
+D:\Apps\AnalogClk\AnalogClk\Bin\Debug\AnalogClock.dll
+D:\Apps\AnalogClk\AnalogClk\Bin\Debug\AnalogClock.pdb
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\AnalogClock.g.resources
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\AnalogClock.dll
+D:\Apps\AnalogClk\AnalogClk\obj\Debug\AnalogClock.pdb
+D:\Apps\AnalogClk\AnalogClk\Bin\Debug\AnalogClock.xap
+D:\Apps\AnalogClk\AnalogClk\Bin\New folder\ApplicationIcon.png
+D:\Apps\AnalogClk\AnalogClk\Bin\New folder\Background.png
+D:\Apps\AnalogClk\AnalogClk\Bin\New folder\AnalogClock.dll
+D:\Apps\AnalogClk\AnalogClk\Bin\New folder\AnalogClock.pdb
+D:\Apps\AnalogClk\AnalogClk\Bin\New folder\AppManifest.xaml
+D:\Apps\AnalogClk\AnalogClk\Bin\New folder\AnalogClock.xap

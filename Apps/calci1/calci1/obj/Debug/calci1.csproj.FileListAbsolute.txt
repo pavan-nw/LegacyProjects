@@ -1,0 +1,40 @@
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\Bin\Debug\calci1.dll
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\Bin\Debug\calci1.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\Bin\Debug\calci1.xap
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\calci1.g.resources
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\calci1.dll
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\calci1.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\XapCacheFile.xml
+C:\Users\PAVAN\documents\visual studio 2010\Projects\calci1\calci1\obj\Debug\Page1.g.i.cs
+F:\Microsoft\phone 7\calci1\calci1\Bin\Debug\ApplicationIcon.png
+F:\Microsoft\phone 7\calci1\calci1\Bin\Debug\Background.png
+F:\Microsoft\phone 7\calci1\calci1\Bin\Debug\AppManifest.xaml
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\ResolveAssemblyReference.cache
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\App.g.i.cs
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\MainPage.g.i.cs
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\XapCacheFile.xml
+F:\Microsoft\phone 7\calci1\calci1\Bin\Debug\calci1.dll
+F:\Microsoft\phone 7\calci1\calci1\Bin\Debug\calci1.pdb
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\calci1.g.resources
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\calci1.dll
+F:\Microsoft\phone 7\calci1\calci1\obj\Debug\calci1.pdb
+F:\Microsoft\phone 7\calci1\calci1\Bin\Debug\PacyCalci1.xap
+D:\calci1\calci1\Bin\Debug\Background.png
+D:\calci1\calci1\Bin\Debug\ApplicationIcon.png
+D:\calci1\calci1\Bin\Debug\calci1.dll
+D:\calci1\calci1\Bin\Debug\calci1.pdb
+D:\calci1\calci1\Bin\Debug\AppManifest.xaml
+D:\calci1\calci1\Bin\Debug\PacyCalci1.xap
+D:\calci1\calci1\obj\Debug\ResolveAssemblyReference.cache
+D:\calci1\calci1\obj\Debug\App.g.i.cs
+D:\calci1\calci1\obj\Debug\MainPage.g.i.cs
+D:\calci1\calci1\obj\Debug\calci1.g.resources
+D:\calci1\calci1\obj\Debug\calci1.dll
+D:\calci1\calci1\obj\Debug\calci1.pdb
+D:\calci1\calci1\obj\Debug\XapCacheFile.xml

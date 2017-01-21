@@ -1,0 +1,13 @@
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\Bin\Debug\ApplicationIcon.png
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\Bin\Debug\Background.png
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\Bin\Debug\PedroLamas.WP7.AnalogClock.dll
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\Bin\Debug\PedroLamas.WP7.AnalogClock.pdb
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\Bin\Debug\AppManifest.xaml
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\Bin\Debug\PedroLamas.WP7.AnalogClock.xap
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\ResolveAssemblyReference.cache
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\App.g.i.cs
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\MainPage.g.i.cs
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\PedroLamas.WP7.AnalogClock.g.resources
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\PedroLamas.WP7.AnalogClock.dll
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\PedroLamas.WP7.AnalogClock.pdb
+F:\Microsoft\WP7AnalogClock\PedroLamas.WP7.AnalogClock\obj\Debug\XapCacheFile.xml

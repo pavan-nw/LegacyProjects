@@ -1,0 +1,54 @@
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.dll
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.xap
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.g.resources
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.dll
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\XapCacheFile.xml
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\ShapeCompute\ShapeCompute\obj\Debug\Page1.g.i.cs
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\Bin\Debug\ApplicationIcon.png
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\Bin\Debug\Background.png
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.dll
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.pdb
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\Bin\Debug\AppManifest.xaml
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.xap
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\ResolveAssemblyReference.cache
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\App.g.i.cs
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\MainPage.g.i.cs
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\Page1.g.i.cs
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.g.resources
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.dll
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.pdb
+F:\Microsoft\phone 7\ShapeCompute\ShapeCompute\obj\Debug\XapCacheFile.xml
+D:\ShapeCompute\ShapeCompute\Bin\Debug\Background.png
+D:\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.dll
+D:\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.pdb
+D:\ShapeCompute\ShapeCompute\Bin\Debug\AppManifest.xaml
+D:\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.xap
+D:\ShapeCompute\ShapeCompute\obj\Debug\ResolveAssemblyReference.cache
+D:\ShapeCompute\ShapeCompute\obj\Debug\App.g.i.cs
+D:\ShapeCompute\ShapeCompute\obj\Debug\MainPage.g.i.cs
+D:\ShapeCompute\ShapeCompute\obj\Debug\Page1.g.i.cs
+D:\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.g.resources
+D:\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.dll
+D:\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.pdb
+D:\ShapeCompute\ShapeCompute\obj\Debug\XapCacheFile.xml
+D:\Apps\ShapeCompute\ShapeCompute\Bin\Debug\Background.png
+D:\Apps\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.dll
+D:\Apps\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.pdb
+D:\Apps\ShapeCompute\ShapeCompute\Bin\Debug\AppManifest.xaml
+D:\Apps\ShapeCompute\ShapeCompute\Bin\Debug\ShapeCompute.xap
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\App.g.i.cs
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\MainPage.g.i.cs
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\Page1.g.i.cs
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.g.resources
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.dll
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\ShapeCompute.pdb
+D:\Apps\ShapeCompute\ShapeCompute\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luckfinder", "WindowsPhoneApplication4\luckfinder.csproj", "{F4026787-B84D-4944-B76B-5F47986179B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4026787-B84D-4944-B76B-5F47986179B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4026787-B84D-4944-B76B-5F47986179B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4026787-B84D-4944-B76B-5F47986179B3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F4026787-B84D-4944-B76B-5F47986179B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4026787-B84D-4944-B76B-5F47986179B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4026787-B84D-4944-B76B-5F47986179B3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

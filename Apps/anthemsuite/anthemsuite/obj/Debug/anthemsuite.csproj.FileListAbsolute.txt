@@ -1,0 +1,28 @@
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\Bin\Debug\anthemsuite.xap
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\XapCacheFile.xml
+c:\users\pavan\documents\visual studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\Page1.g.i.cs
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\anthemsuite\anthemsuite\Bin\Debug\anthemsuite.dll
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\anthemsuite\anthemsuite\Bin\Debug\anthemsuite.pdb
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\anthemsuite.g.resources
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\anthemsuite.dll
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\anthemsuite\anthemsuite\obj\Debug\anthemsuite.pdb
+D:\Apps\anthemsuite\anthemsuite\Bin\Debug\ApplicationIcon.png
+D:\Apps\anthemsuite\anthemsuite\Bin\Debug\Background.png
+D:\Apps\anthemsuite\anthemsuite\Bin\Debug\anthemsuite.dll
+D:\Apps\anthemsuite\anthemsuite\Bin\Debug\anthemsuite.pdb
+D:\Apps\anthemsuite\anthemsuite\Bin\Debug\AppManifest.xaml
+D:\Apps\anthemsuite\anthemsuite\Bin\Debug\anthemsuite.xap
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\App.g.i.cs
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\MainPage.g.i.cs
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\Page1.g.i.cs
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\anthemsuite.g.resources
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\anthemsuite.dll
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\anthemsuite.pdb
+D:\Apps\anthemsuite\anthemsuite\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,8 @@
+﻿<xapCache source="D:\Apps\SNB\SNB\Bin\Debug\SNB.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="24-12-2011 AM 11:17:00">
+  <file source="D:\Apps\SNB\SNB\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12-12-2011 PM 3:03:46" />
+  <file source="D:\Apps\SNB\SNB\obj\Debug\SNB.dll" archivePath="SNB.dll" lastWriteTime="24-12-2011 AM 11:16:59" />
+  <file source="D:\Apps\SNB\SNB\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="14-12-2011 PM 9:13:26" />
+  <file source="D:\Apps\SNB\SNB\Background.png" archivePath="Background.png" lastWriteTime="14-12-2011 PM 9:14:40" />
+  <file source="D:\Apps\SNB\SNB\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="07-12-2011 AM 11:45:52" />
+  <file source="D:\Apps\SNB\SNB\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24-12-2011 AM 11:16:53" />
+</xapCache>

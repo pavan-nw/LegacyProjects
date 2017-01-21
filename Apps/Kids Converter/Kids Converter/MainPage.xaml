@@ -1,0 +1,62 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Kids_Converter.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Welcome Kids-Happy Learning Session" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF3FE20E" />
+            <TextBlock x:Name="PageTitle" Text="Number Base Converter" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="40" Foreground="#FF3FE20E" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox Height="71" HorizontalAlignment="Left" Margin="185,90,0,0" Name="txtin" Text="" VerticalAlignment="Top" Width="265" TextAlignment="Right" FontWeight="Bold" FontSize="26" Foreground="#FFF50000" InputScope="number" Background="#BFE5E512" />
+            <TextBox Height="71" HorizontalAlignment="Left" Margin="185,542,0,0" Name="txtop" Text="" VerticalAlignment="Top" Width="265" Foreground="#FF0808C7" FontWeight="Bold" TextAlignment="Right" Background="#BFE2E220" />
+            <Button Content="Convert Base" Height="72" HorizontalAlignment="Left" Margin="116,441,0,0" Name="button1" VerticalAlignment="Top" Width="214" Click="button1_Click" BorderBrush="#FFEF1515" Foreground="#FFE20E0E" />
+            <TextBlock Height="37" HorizontalAlignment="Left" Margin="12,110,0,0" Name="textBlock1" Text="Input Number:" VerticalAlignment="Top" Width="184" FontSize="24" Foreground="#FFEBDFDF" FontWeight="SemiBold" />
+            <TextBlock FontSize="24" Height="37" HorizontalAlignment="Left" Margin="6,560,0,0" Name="textBlock2" Text="Result Number:" VerticalAlignment="Top" Width="184" Foreground="#FFEBDFDF" FontWeight="SemiBold" />
+            <RadioButton Content="2 (Binary)" Height="72" HorizontalAlignment="Left" Margin="42,180,0,0" Name="rd2" VerticalAlignment="Top" Foreground="#FFEBDFDF" FontWeight="SemiBold" Background="#BFFD0403" />
+            <RadioButton Content="8 (Octal)" Height="72" HorizontalAlignment="Left" Margin="273,180,0,0" Name="rd8" VerticalAlignment="Top" Foreground="#FFEBDFDF" FontWeight="SemiBold" Background="#BFFD0403" />
+            <RadioButton Content="16 (Hex)" Height="72" HorizontalAlignment="Left" Margin="155,279,0,0" Name="rd16" VerticalAlignment="Top" Foreground="#FFEBDFDF" FontWeight="SemiBold" Background="#BFFD0403" />
+            <TextBlock FontSize="24" FontWeight="Medium" Foreground="#FFEFEF22" Height="64" HorizontalAlignment="Left" Margin="9,20,0,0" Name="textBlock3" Text="Enter any decimal number and convert into binary,octal,hex" VerticalAlignment="Top" Width="441" TextWrapping="Wrap" />
+        </Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FF10CE10" Offset="0.07" />
+                <GradientStop Color="#FF070600" Offset="1" />
+                <GradientStop Color="#FF0A4C9A" Offset="0.5" />
+            </RadialGradientBrush>
+        </Grid.Background>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

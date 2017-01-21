@@ -1,0 +1,26 @@
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\Bin\Debug\ApplicationIcon.png
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\Bin\Debug\Background.png
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\Bin\Debug\CoolBrowser.dll
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\Bin\Debug\CoolBrowser.pdb
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\Bin\Debug\AppManifest.xaml
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\Bin\Debug\CoolBrowser.xap
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\App.g.i.cs
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\MainPage.g.i.cs
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\CoolBrowser.g.resources
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\CoolBrowser.dll
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\CoolBrowser.pdb
+c:\users\rashu\documents\visual studio 2010\Projects\CoolBrowser\CoolBrowser\obj\Debug\XapCacheFile.xml
+D:\Apps\CoolBrowser\CoolBrowser\Bin\Debug\ApplicationIcon.png
+D:\Apps\CoolBrowser\CoolBrowser\Bin\Debug\Background.png
+D:\Apps\CoolBrowser\CoolBrowser\Bin\Debug\CoolBrowser.dll
+D:\Apps\CoolBrowser\CoolBrowser\Bin\Debug\CoolBrowser.pdb
+D:\Apps\CoolBrowser\CoolBrowser\Bin\Debug\AppManifest.xaml
+D:\Apps\CoolBrowser\CoolBrowser\Bin\Debug\CoolBrowser.xap
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\App.g.i.cs
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\MainPage.g.i.cs
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\CoolBrowser.g.resources
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\CoolBrowser.dll
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\CoolBrowser.pdb
+D:\Apps\CoolBrowser\CoolBrowser\obj\Debug\XapCacheFile.xml

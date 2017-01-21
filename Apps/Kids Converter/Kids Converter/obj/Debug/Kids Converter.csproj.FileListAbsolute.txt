@@ -1,0 +1,26 @@
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\Bin\Debug\Kids Converter.dll
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\Bin\Debug\Kids Converter.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\Bin\Debug\Kids_Converter.xap
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\Kids Converter.g.resources
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\Kids Converter.dll
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\Kids Converter.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\Kids Converter\Kids Converter\obj\Debug\XapCacheFile.xml
+D:\Apps\Kids Converter\Kids Converter\Bin\Debug\ApplicationIcon.png
+D:\Apps\Kids Converter\Kids Converter\Bin\Debug\Background.png
+D:\Apps\Kids Converter\Kids Converter\Bin\Debug\Kids Converter.dll
+D:\Apps\Kids Converter\Kids Converter\Bin\Debug\Kids Converter.pdb
+D:\Apps\Kids Converter\Kids Converter\Bin\Debug\AppManifest.xaml
+D:\Apps\Kids Converter\Kids Converter\Bin\Debug\Kids_Converter.xap
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\App.g.i.cs
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\MainPage.g.i.cs
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\Kids Converter.g.resources
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\Kids Converter.dll
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\Kids Converter.pdb
+D:\Apps\Kids Converter\Kids Converter\obj\Debug\XapCacheFile.xml

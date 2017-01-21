@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="license" targetNamespace="http://www.codeproject.com/dotnet/xmldsiglic.asp" elementFormDefault="qualified" xmlns="http://www.codeproject.com/dotnet/xmldsiglic.asp" xmlns:mstns="http://www.codeproject.com/dotnet/xmldsiglic.asp" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" version="1.0">
+	<xs:import id="schema" namespace="http://www.w3.org/2000/09/xmldsig#" schemaLocation="xmldsig-core-schema.xsd" />
+	<xs:element name="license">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="computerName" type="xs:string" minOccurs="1" maxOccurs="1" nillable="false" />
+				<xs:element name="expires" type="xs:dateTime" minOccurs="1" maxOccurs="1" nillable="false" />
+				<xs:element ref="dsig:Signature" minOccurs="0" maxOccurs="1" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

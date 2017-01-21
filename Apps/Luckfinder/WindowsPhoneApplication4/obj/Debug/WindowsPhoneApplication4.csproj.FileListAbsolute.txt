@@ -1,0 +1,13 @@
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.dll
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.xap
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.g.resources
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.dll
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,26 @@
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\Bin\Debug\ApplicationIcon.png
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\Bin\Debug\Background.png
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\Bin\Debug\DiscountAst.dll
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\Bin\Debug\DiscountAst.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\Bin\Debug\AppManifest.xaml
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\Bin\Debug\DiscountAst.xap
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\App.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\MainPage.g.i.cs
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\DiscountAst.g.resources
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\DiscountAst.dll
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\DiscountAst.pdb
+c:\users\pavan\documents\visual studio 2010\Projects\DiscountAst\DiscountAst\obj\Debug\XapCacheFile.xml
+D:\Apps\DiscountAst\DiscountAst\Bin\Debug\ApplicationIcon.png
+D:\Apps\DiscountAst\DiscountAst\Bin\Debug\Background.png
+D:\Apps\DiscountAst\DiscountAst\Bin\Debug\DiscountAst.dll
+D:\Apps\DiscountAst\DiscountAst\Bin\Debug\DiscountAst.pdb
+D:\Apps\DiscountAst\DiscountAst\Bin\Debug\AppManifest.xaml
+D:\Apps\DiscountAst\DiscountAst\Bin\Debug\DiscountAst.xap
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\App.g.i.cs
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\MainPage.g.i.cs
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\DiscountAst.g.resources
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\DiscountAst.dll
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\DiscountAst.pdb
+D:\Apps\DiscountAst\DiscountAst\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,28 @@
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\ApplicationIcon.png
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\Background.png
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.dll
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.pdb
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\AppManifest.xaml
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\App.g.i.cs
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\MainPage.g.i.cs
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\Page1.g.i.cs
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.g.resources
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.dll
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.pdb
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\obj\Debug\XapCacheFile.xml
+C:\Users\PAVAN\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication4\WindowsPhoneApplication4\Bin\Debug\luckfinder.xap
+D:\Apps\Luckfinder\WindowsPhoneApplication4\Bin\Debug\ApplicationIcon.png
+D:\Apps\Luckfinder\WindowsPhoneApplication4\Bin\Debug\Background.png
+D:\Apps\Luckfinder\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.dll
+D:\Apps\Luckfinder\WindowsPhoneApplication4\Bin\Debug\WindowsPhoneApplication4.pdb
+D:\Apps\Luckfinder\WindowsPhoneApplication4\Bin\Debug\AppManifest.xaml
+D:\Apps\Luckfinder\WindowsPhoneApplication4\Bin\Debug\luckfinder.xap
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\ResolveAssemblyReference.cache
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\App.g.i.cs
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\MainPage.g.i.cs
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\Page1.g.i.cs
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.g.resources
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.dll
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\WindowsPhoneApplication4.pdb
+D:\Apps\Luckfinder\WindowsPhoneApplication4\obj\Debug\XapCacheFile.xml

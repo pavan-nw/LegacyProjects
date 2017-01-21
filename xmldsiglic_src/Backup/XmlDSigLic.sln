@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sign", "Sign\Sign.csproj", "{62C87674-FE4F-4300-B049-C1E81EC53DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verify", "Verify\Verify.csproj", "{536DB559-52C5-4DE5-83F2-4BE60DDFCEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractPubKey", "ExtractPubKey\ExtractPubKey.csproj", "{F0946478-2F1C-403C-86D2-057B9B0C1056}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{62C87674-FE4F-4300-B049-C1E81EC53DE8}.Debug.ActiveCfg = Debug|.NET
+		{62C87674-FE4F-4300-B049-C1E81EC53DE8}.Debug.Build.0 = Debug|.NET
+		{62C87674-FE4F-4300-B049-C1E81EC53DE8}.Release.ActiveCfg = Release|.NET
+		{62C87674-FE4F-4300-B049-C1E81EC53DE8}.Release.Build.0 = Release|.NET
+		{536DB559-52C5-4DE5-83F2-4BE60DDFCEC2}.Debug.ActiveCfg = Debug|.NET
+		{536DB559-52C5-4DE5-83F2-4BE60DDFCEC2}.Debug.Build.0 = Debug|.NET
+		{536DB559-52C5-4DE5-83F2-4BE60DDFCEC2}.Release.ActiveCfg = Release|.NET
+		{536DB559-52C5-4DE5-83F2-4BE60DDFCEC2}.Release.Build.0 = Release|.NET
+		{F0946478-2F1C-403C-86D2-057B9B0C1056}.Debug.ActiveCfg = Debug|.NET
+		{F0946478-2F1C-403C-86D2-057B9B0C1056}.Debug.Build.0 = Debug|.NET
+		{F0946478-2F1C-403C-86D2-057B9B0C1056}.Release.ActiveCfg = Release|.NET
+		{F0946478-2F1C-403C-86D2-057B9B0C1056}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
