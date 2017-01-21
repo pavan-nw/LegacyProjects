@@ -1,2 +1,2 @@
-# MyDevStuff
-Repo to keep my development projects
+# LegacyProjects
+Repo to keep my old and college sample development projects
